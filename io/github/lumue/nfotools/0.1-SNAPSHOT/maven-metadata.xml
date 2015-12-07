@@ -2,12 +2,12 @@
 <metadata>
   <groupId>io.github.lumue</groupId>
   <artifactId>nfotools</artifactId>
-  <version>0.1.SNAPSHOT</version>
+  <version>0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20151207.183217</timestamp>
-      <buildNumber>4</buildNumber>
+      <timestamp>20151207.183754</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20151207183217</lastUpdated>
+    <lastUpdated>20151207183754</lastUpdated>
   </versioning>
 </metadata>

@@ -3,11 +3,14 @@
   <groupId>io.github.lumue</groupId>
   <artifactId>nfotools</artifactId>
   <versioning>
-    <release>0.1.20151206.233550-2</release>
+    <release>0.1.20151207.183217-4</release>
     <versions>
       <version>0.1.20151206.233534-1</version>
       <version>0.1.20151206.233550-2</version>
+      <version>0.1.20151206.234820-3</version>
+      <version>0.1.20151207.183217-4</version>
+      <version>0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20151206233550</lastUpdated>
+    <lastUpdated>20151207183754</lastUpdated>
   </versioning>
 </metadata>

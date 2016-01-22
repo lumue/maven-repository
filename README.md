@@ -1,11 +1,11 @@
 # maven-repository
 
-repository url: https://github.com/lumue/maven-repository/raw/master/
+repository url: https://raw.githubusercontent.com/lumue/maven-repository/master/
 
 using this repo with gradle:
 ```
 repositories { 
-    mavenRepo urls: 'https://github.com/lumue/maven-repository/raw/master/'
+    mavenRepo urls: 'https://raw.githubusercontent.com/lumue/maven-repository/master/'
 }
 ```
 
